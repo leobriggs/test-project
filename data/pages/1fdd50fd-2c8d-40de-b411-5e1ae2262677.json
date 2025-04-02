@@ -1,0 +1,12 @@
+{
+  "content": [],
+  "created_at": "2025-04-02T21:53:33.677Z",
+  "created_by": "leobriggs",
+  "title": "Test Project",
+  "updated_at": "2025-04-02T21:53:33.677Z",
+  "updated_by": "leobriggs",
+  "autogenerate": {
+    "enabled": true,
+    "type": "home"
+  }
+}
