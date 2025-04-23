@@ -24,11 +24,129 @@
     "auto_populate_home_page": true,
     "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "category": "Feeling",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Intervention",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Medium",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "Device",
+          "color": "#88C9F2"
+        },
+        {
+          "category": "Speaker",
+          "color": "#99AFF2"
+        },
+        {
+          "category": "Topic",
+          "color": "#B3B3E6"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Curiosity",
+          "category": "Feeling"
+        },
+        {
+          "tag": "Fear",
+          "category": "Feeling"
+        },
+        {
+          "tag": "Pain",
+          "category": "Feeling"
+        },
+        {
+          "tag": "Awe",
+          "category": "Feeling"
+        },
+        {
+          "tag": "Denial",
+          "category": "Feeling"
+        },
+        {
+          "tag": "Correction",
+          "category": "Intervention"
+        },
+        {
+          "tag": "Anticipation",
+          "category": "Intervention"
+        },
+        {
+          "tag": "Patronizing",
+          "category": "Intervention"
+        },
+        {
+          "tag": "Music",
+          "category": "Medium"
+        },
+        {
+          "tag": "Commercial break",
+          "category": "Medium"
+        },
+        {
+          "tag": "Feedback",
+          "category": "Medium"
+        },
+        {
+          "tag": "Evidence",
+          "category": "Device"
+        },
+        {
+          "tag": "Humor",
+          "category": "Device"
+        },
+        {
+          "tag": "Cynthia Siegel",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Betty Hill",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Barney Hill",
+          "category": "Topic"
+        },
+        {
+          "tag": "Memory loss",
+          "category": "Topic"
+        },
+        {
+          "tag": "U.S. military",
+          "category": "Topic"
+        },
+        {
+          "tag": "Sound",
+          "category": "Topic"
+        },
+        {
+          "tag": "Examination",
+          "category": "Topic"
+        },
+        {
+          "tag": "Consciousness",
+          "category": "Topic"
+        },
+        {
+          "tag": "Illness",
+          "category": "Topic"
+        },
+        {
+          "tag": "Notoriety",
+          "category": "Topic"
+        }
+      ]
     },
     "created_at": "2025-04-02T21:53:33.657Z",
-    "updated_at": "2025-04-22T16:34:31.072Z",
+    "updated_at": "2025-04-23T21:37:46.100Z",
     "generate_pages_site": true
   }
 }
