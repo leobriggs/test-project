@@ -302,7 +302,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Barbeito, Patricia Felisa. “‘He’s Making Me Feel Things in My Body That I Don’t Feel’: The Body as Battleground in Accounts of Alien Abduction.” Journal of American Culture, vol. 28, no. 2 (2005): 201–15."
+          "text": "Barbeito, Patricia Felisa. “‘He’s Making Me Feel Things in My Body That I Don’t Feel’: The Body as Battleground in Accounts of Alien Abduction.” "
+        },
+        {
+          "text": "Journal of American Culture",
+          "italic": true
+        },
+        {
+          "text": ", vol. 28, no. 2 (2005): 201–15."
         }
       ]
     },
@@ -310,7 +317,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "“Betty Hill.” UFO Connection, season 1, episode 1, starring Cynthia Siegel, Access Sacramento, 2002."
+          "text": "“Betty Hill.” "
+        },
+        {
+          "text": "UFO Connection",
+          "italic": true
+        },
+        {
+          "text": ", season 1, episode 1, starring Cynthia Siegel, Access Sacramento, 2002."
         }
       ]
     },
@@ -318,7 +332,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Brown, Bridget. They Know Us Better Than We Know Ourselves: The History and Politics of Alien Abduction. New York, United States: New York University Press, 2007."
+          "text": "Brown, Bridget. "
+        },
+        {
+          "text": "They Know Us Better Than We Know Ourselves: The History and Politics of Alien Abduction.",
+          "italic": true
+        },
+        {
+          "text": " New York, United States: New York University Press, 2007."
         }
       ]
     },
@@ -326,7 +347,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Hacking, Ian. “Making Up People.” Forms of Desire, ed. by Edward Stein, Routledge, 1990, p. 63-83."
+          "text": "Hacking, Ian. “Making Up People.” "
+        },
+        {
+          "text": "Forms of Desire",
+          "italic": true
+        },
+        {
+          "text": ", ed. by Edward Stein, Routledge, 1990, p. 63-83."
         }
       ]
     },
@@ -334,7 +362,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Luckhurst, Roger. “The Science Fictionalization of Trauma: Remarks on Narratives of Alien Abduction.” Science Fiction Studies, vol. 25, no. 1, 1998, p. 29-52."
+          "text": "Luckhurst, Roger. “The Science Fictionalization of Trauma: Remarks on Narratives of Alien Abduction.” "
+        },
+        {
+          "text": "Science Fiction Studies",
+          "italic": true
+        },
+        {
+          "text": ", vol. 25, no. 1, 1998, p. 29-52."
         }
       ]
     }
@@ -348,6 +383,6 @@
   "slug": "theoretical-analysis",
   "created_at": "2025-04-28T20:28:02.686Z",
   "created_by": "leobriggs",
-  "updated_at": "2025-04-28T20:38:44.072Z",
+  "updated_at": "2025-04-28T20:39:26.204Z",
   "updated_by": "leobriggs"
 }
