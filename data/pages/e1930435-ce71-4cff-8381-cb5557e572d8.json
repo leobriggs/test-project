@@ -1,0 +1,31 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Rehearsed storytelling is the process by which abductees’ classifications, legitimacy, and social currency become deeply tied to the story of their abduction—it is part of the process of “making up” the abductee. In this audiovisual artifact, Betty Hill recounts the night of her abduction over forty years after the event occurred. Over time, the way that she tells the story evolves to respond to the audience she addresses. The creation of narrative is guided at times by Hill and also by Siegel, who has her own preconceptions and motivations, and her audience in mind. Throughout the interview, Siegel steps into the role of director in Hill’s rehearsal, leaving Betty to fulfill the role of performer. Because of this role reversal and Hill’s physical absence from the space, the conversational flow becomes dissonant often. Siegel is in a tricky position as the interviewer, since she cannot rely on visual cues from Betty about breaks in the conversation. At the same time, she is hypervisible to the audience, being the only on-camera presence. This results in an unsettling combination of interruptions, crosstalk, and oversized physical reactions on the part of Siegel. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    }
+  ],
+  "title": "Rehearsed Storytelling",
+  "parent": "1fdd50fd-2c8d-40de-b411-5e1ae2262677",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "rehearsed-storytelling",
+  "created_at": "2025-04-28T20:26:17.237Z",
+  "created_by": "leobriggs",
+  "updated_at": "2025-04-28T20:26:17.237Z",
+  "updated_by": "leobriggs"
+}
