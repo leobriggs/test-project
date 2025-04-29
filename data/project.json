@@ -14,21 +14,15 @@
   "project": {
     "github_org": "leobriggs",
     "is_private": false,
-    "title": "Rehearsed Storytelling and Discourses of Proof in Oral Accounts of Alien Abduction",
-    "description": "description forthcoming",
+    "title": "Rehearsed Storytelling and Discourses of Evidence in Accounts of Alien Abduction",
+    "description": "This project listens to the voices of alien abductee Betty Hill and UFO enthusiast Cynthia Siegel to better understand the dialectic process of what Ian Hacking calls “making up people.” I pay particular attention to the way that rehearsed storytelling practices, discourses of evidence, humor, and temporalities of abduction appear in the interview. The creative strategies Hill employs are emblematic of a collective process of rehearsed storytelling that abductees engage in order to make sense of experiences that have cast them to the fringes of societal legitimacy.",
     "language": "en",
     "slug": "test-project",
     "creator": "leobriggs",
     "authors": "Leo Briggs",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [
-      {
-        "login_name": "saamturner",
-        "avatar_url": "https://avatars.githubusercontent.com/u/157153031?v=4",
-        "admin": false
-      }
-    ],
+    "additional_users": [],
     "tags": {
       "tagGroups": [
         {
@@ -168,7 +162,7 @@
       ]
     },
     "created_at": "2025-04-02T21:53:33.657Z",
-    "updated_at": "2025-04-29T18:50:07.423Z",
+    "updated_at": "2025-04-29T19:06:07.403Z",
     "generate_pages_site": true
   }
 }
